@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8581b782-4a07-4180-9949-03edaa174aac" name="mimi.cs.mcgill.ca">
+        <fileTransfer rootFolder="/home/2019/iepste1/p3" accessType="SFTP" host="mimi.cs.mcgill.ca" port="22" sshConfigId="46528b7b-36b4-4310-bcba-2297a6f2cb28" sshConfig="iepste1@mimi.cs.mcgill.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
